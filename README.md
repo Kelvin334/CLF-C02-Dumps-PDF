@@ -2,7 +2,7 @@ I recently passed my AWS Certified Cloud Practitioner CLF-C02 Exam with good gra
 
 To provide the most accurate and up-to-date information for the AWS Certified Cloud Practitioner (CLF-C02) exam, I recommend referring to the official AWS documentation and practice materials directly from the AWS website. They will have the most current exam objectives, sample questions, and study guides.
 
-AWS CLF-C02 Exam Details
+**AWS CLF-C02 Exam Details**
 
 **Number of Questions:** The exact number of questions in the CLF-C02 exam can vary slightly, but it typically falls within the range of 65-85 questions.
 **Exam Time:** You have 90 minutes to complete the CLF-C02 exam.
@@ -28,9 +28,13 @@ AWS Certified Cloud Practitioner Sample Questions
 **Important Topics Covered in the CLF-C02 Exam:**
 
 **Cloud Computing Concepts:** Understand the basics of cloud computing, including the different service models (IaaS, PaaS, SaaS), deployment models (public, private, hybrid), and key benefits of cloud adoption.
+
 **AWS Services:** Familiarize yourself with the core AWS services, such as EC2, S3, RDS, Lambda, and more. Understand their use cases and how they can be used to build cloud applications.
+
 **Security and Compliance:** Learn about security best practices in the cloud, including IAM, encryption, and compliance regulations like GDPR and HIPAA.
+
 **Billing and Cost Management:** Understand how to manage costs in the cloud, including billing models, cost optimization strategies, and Reserved Instances.
+
 **Cloud Architecture and Design:** Learn about cloud architecture principles, including scalability, availability, and performance.
 
 **Important Questions:**
